@@ -12,7 +12,7 @@ static const bool useButton = true;
 
 // Define a timeout for auto-switching modes if no button press is detected
 // Set to 0 to disable auto-switching
-static const int autoSwitchTimeoutMillis = 5000; // 5 seconds
+static const int autoSwitchTimeoutMillis = 0; // 5 seconds
 
 Adafruit_NeoPixel *strip;
 
