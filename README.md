@@ -133,6 +133,12 @@ Auf dem ESP8266 wird jeder Pin als **GPIO** (General Purpose Input/Output) bezei
 
 ---
 
+## Links
+
+LED-Lichter für Speichen gibt es bei [https://spokespice.github.io](SpokeSpice).
+
+---
+
 ## Lizenz
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert. Du kannst den Code frei verwenden, modifizieren und verteilen, solange du die Lizenzbedingungen einhältst.
