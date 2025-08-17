@@ -34,10 +34,10 @@ Die Hardware ist bewusst einfach gehalten, sodass Anfänger:innen direkt loslege
 
 Du kannst die benötigten Komponenten in Elektronikshops oder Online-Shops kaufen. Hier sind einige Links als Beispiele:
 
-- **ESP8266 NodeMCU:** [https://www.amazon.de/dp/B0D7BSC3VC](Amazon)
-- **WS2812 Neopixel-LED-Kette:** [https://www.amazon.de/dp/B08Y8QXTCL](Amazon)
-- **Taster:** [https://www.amazon.de/-/en/Miniature-Tactile-Momentary-Electronic-Components/dp/B09WVFHMSV](Amazon)
-- **USB-Kabel:** [https://www.amazon.de/dp/B073TTTPXD](Amazon)
+- **ESP8266 NodeMCU:** [Amazon](https://www.amazon.de/dp/B0D7BSC3VC)
+- **WS2812 Neopixel-LED-Kette:** [Amazon](https://www.amazon.de/dp/B08Y8QXTCL)
+- **Taster:** [Amazon](https://www.amazon.de/-/en/Miniature-Tactile-Momentary-Electronic-Components/dp/B09WVFHMSV)
+- **USB-Kabel:** [Amazon](https://www.amazon.de/dp/B073TTTPXD)
 
 Wer alternative Links oder Shops kennt, kann diese gerne in Form eines [Pull Requests](https://github.com/zonque/Freilauf25/pulls) hinzufügen.
 
@@ -135,7 +135,7 @@ Auf dem ESP8266 wird jeder Pin als **GPIO** (General Purpose Input/Output) bezei
 
 ## Links
 
-LED-Lichter für Speichen gibt es bei [https://spokespice.github.io](SpokeSpice).
+LED-Lichter für Speichen gibt es bei [SpokeSpice](https://spokespice.github.io).
 
 ---
 
